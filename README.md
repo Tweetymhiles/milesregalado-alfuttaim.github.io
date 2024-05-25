@@ -1,9 +1,13 @@
-# milesregalado-alfuttaim.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initia![orient-logo](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/81695881-f6f3-4a9e-9242-1dadaeaadf92)
+![web-background](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/9cfc4b27-e5dc-4426-b561-6ab2da35a354)
+![mimi](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/f818768b-2218-48de-a046-4512602c5abe)
+![AF logo](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/900560ab-dc59-434e-8702-4777a70f0c88)
+![web-background](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/5ddf90b3-9ec7-4665-b649-0bf631814b4d)
+l-scale=1.0">
     <title>Mary Miles Regalado - Life Insurance Advisor</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap">
     <style>
