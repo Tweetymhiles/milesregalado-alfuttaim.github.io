@@ -57,10 +57,13 @@
  	<a href="#me">About Me</a>
         <a href="#about">About My Company</a>
         <a href="#life-insurance">Life Insurance</a>
-        <a href="#contact">Contact Me</a>
-        <a href="#illustration">Illustration Now!</a>
+        <a href="#contact">Contact Me</a>![AF logo](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/36162b17-6a4e-4ad7-8785-fe19de857440)
+
+        <a href="#illustration">Illustration Now!</a>![orient-logo](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/0b129a00-f18c-4a98-9dbf-426d9e8ba702)
+
     </nav>
-    <div class="content" id="me">
+    <div class="content" id="me">![web-background](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/b7480902-1161-4886-ae48-c6ef0371aadc)
+
 	<img src="orient-logo.jpg" alt="Company Logo" style="max-width: 500px;">
 	<br>
         <img src="mimi.jpg" alt="Mary Miles Regalado" class="profile-picture" style="width: 200px; height: 200px;">
@@ -141,7 +144,8 @@ The Company makes a significant economic contribution to the United Arab Emirate
     <button type="submit">Submit</button>
 </form>
 	<br>
-	<br>
+	<br>![mimi](https://github.com/Tweetymhiles/milesregalado-alfuttaim.github.io/assets/170807150/92bb6459-5275-4510-b6e0-177f1a4f89fe)
+
 	<img src="AF.logo.jpg" alt="Company Logo" style="max-width: 150px;">
 </div>
 	<div class="chatbot" onclick="window.open('https://wa.me/message/Y576FNRWCJWMH1', '_blank')">
